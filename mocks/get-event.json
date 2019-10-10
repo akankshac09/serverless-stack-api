@@ -1,0 +1,10 @@
+{
+  "pathParameters": {
+    "id": "801f5a90-ea81-11e9-b7a7-c35f46147305"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "akanksha.chaturvedi@sbdinc.com"
+    }
+  }
+}
